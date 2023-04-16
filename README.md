@@ -1,4 +1,4 @@
-# Doctor-appiontment-system
+# Doctor-appointment-system
 package com.sumanth;
 import java.util.*;
 class AppointmentBooking
